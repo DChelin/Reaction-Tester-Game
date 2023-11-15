@@ -72,4 +72,5 @@ document.getElementById("shape").onclick = function() {
     document.getElementById("timeTaken").innerHTML = timeTaken + "s";
 
     appearAfterDelay();
+
 }
